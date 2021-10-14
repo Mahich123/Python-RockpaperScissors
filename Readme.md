@@ -1,10 +1,10 @@
-<h1 align="center">🛰 SpaceX-Clone 🛰</h1>
+<h1 align="center">🎲Rock Paper Scissors 🎲</h1>
 
 
-> This is a Clone of Spacex webiste. Created from scratch.
+> This is a Rock Paper Scissors Game
 ### 🏠 [Homepage](https://github.com/Mahich123/SpaceX-clone)
 
-### ✨ [Demo] (Demo.png)
+### ✨ ![Demo](Demo.png)
 
 
 ## How to play 🕹
