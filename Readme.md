@@ -4,7 +4,8 @@
 > This is a Rock Paper Scissors Game
 ### 🏠 [Homepage](https://github.com/Mahich123/SpaceX-clone)
 
-### ✨[Demo] ![Demo](Demo.png)
+### ✨[Demo]
+![Demo](Demo.png)
 
 
 ## How to play 🕹
